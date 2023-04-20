@@ -1,32 +1,26 @@
-# KuStore Ecommerce
+# BWAStore-Frontend
 
-KuStore adalah website portfolio yang dibuat untuk memenuhi tugas projek pada kursus online BuildWith Angga (BWA). Website ini sudah dimodifikasi sekitar 30% dari website yang dirancang oleh mentor (BWAStore).
+BWAStore-Frontend adalah website frontend untuk projek e-commerce BWAStore. Website ini dibangun dengan HTML, CSS, dan JavaScript dan berfungsi untuk menampilkan produk-produk yang dijual dan memungkinkan pengguna untuk melakukan transaksi pembelian.
 
-## Lisensi
+Website ini awalnya dibuat oleh Galih Pratama, seorang mentor dari Buildwith Angga, dan telah dimodifikasi oleh saya untuk memenuhi kebutuhan dari projek BWAStore.
 
-MIT License
+## Struktur Repositori
 
-Copyright (c) 2020 Galih Pratama
+Repositori ini terdiri dari beberapa direktori dan file sebagai berikut:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+- `assets/`: direktori yang berisi file-file pendukung seperti gambar, font, dan file-file CSS.
+- `js/`: direktori yang berisi file-file JavaScript yang digunakan untuk interaksi dengan website.
+- `index.html`: file utama yang berisi struktur HTML untuk website.
+- `README.md`: file yang berisi informasi tentang repositori ini.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Cara Menggunakan
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Anda dapat menyalin atau meng-clone repositori ini dan menjalankan file index.html pada browser Anda untuk melihat tampilan dari website. Namun, perlu diingat bahwa website ini hanya merupakan tampilan dari BWAStore dan tidak dapat melakukan transaksi pembelian tanpa backend yang sesuai.
 
-<hr>
+## Catatan Penting
 
-Source code dasar projek ini berasal dari starter template HTML buatan mentor BWA dan Belajar Koding, dan berdasarkan catatan yang tertulis bahwa Source code dasarnya hanya boleh di-copy oleh member BWA dan Belajar Koding.
-# bwastore-frontend
+- Repositori ini hanya berisi file-file untuk website frontend dan tidak memiliki kemampuan untuk melakukan transaksi pembelian.
+- Repositori ini tidak menerima kontribusi dari pihak lain kecuali untuk kepentingan pengembangan oleh pemilik repositori.
+- Repositori ini merupakan bagian dari portfolio pribadi dan tidak dapat digunakan untuk tujuan lain selain sebagai contoh pengembangan website oleh pemilik repositori.
+- Repository ini tidak menyertakan file-file konfigurasi dan credential untuk keamanan dan privasi. Pastikan Anda menyimpan file-file ini di tempat yang aman dan tidak terlihat oleh orang lain.
+- Website ini awalnya dibuat oleh Galih Pratama, seorang mentor dari Buildwith Angga, dan telah dimodifikasi oleh saya.
