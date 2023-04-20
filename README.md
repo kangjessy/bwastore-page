@@ -1,5 +1,6 @@
-# BWAStore HTML Starter Template
-Starter Template ini dapat anda gunakan untuk memulai project pada video tutorial [BWASTORE](https://bit.ly/BWASTORE)
+# KuStore Ecommerce
+
+KuStore adalah website portfolio yang dibuat untuk memenuhi tugas projek pada kursus online BuildWith Angga (BWA). Website ini sudah dimodifikasi sekitar 30% dari website yang dirancang oleh mentor (BWAStore).
 
 ## Lisensi
 
@@ -27,6 +28,5 @@ SOFTWARE.
 
 <hr>
 
-Source code ini HANYA DAPAT DIGUNAKAN untuk member kelas BWAStore dan tidak diizinkan untuk disebarkan kepada pihak selain member kelas BWAStore.
-
-Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWAStore, anda tidak diperkenankan untuk menggunakan source code ini.
+Source code dasar projek ini berasal dari starter template HTML buatan mentor BWA dan Belajar Koding, dan berdasarkan catatan yang tertulis bahwa Source code dasarnya hanya boleh di-copy oleh member BWA dan Belajar Koding.
+# bwastore-frontend
